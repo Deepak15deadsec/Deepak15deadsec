@@ -1,5 +1,5 @@
 <!--
-  Hi there 👋, I'm [Deepak]!
+  Hi there 👋, I'm Deepak!
   Welcome to my GitHub profile.
 -->
 
@@ -83,25 +83,4 @@
 
 ---
 
-## 📂 Featured Projects
 
-| Project | Description | Tech |
-| :-----: | :--------- | :--- |
-| [Awesome-App](https://github.com/deeps/awesome-app) | A full-stack e-commerce platform with real-time chat and payments. | React, Next.js, Node.js, MongoDB |
-| [Scriptify](https://github.com/deeps/scriptify) | CLI tool to automate data migrations & backups. | Python, Click |
-| [MobileX](https://github.com/deeps/mobilex) | Cross-platform mobile app for task management. | React Native, Express.js |
-
-*…more on [your-username.github.io/projects](https://your-username.github.io/projects)*
-
----
-
-## ✨ Let’s Connect
-
-<p align="center">
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Compose-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
