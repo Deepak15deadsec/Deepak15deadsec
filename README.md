@@ -77,9 +77,9 @@
 
 ## 🌱 Currently Learning
 
-- **GraphQL** best practices and advanced schema design  
-- **Kubernetes** orchestration and Helm charts  
-- **Serverless** architecture with AWS & Azure Functions  
+- **Prompt Engineering** Designing effective prompts and system instructions for LLMs to improve performance and reliability  
+- **LLM Fine-Tuning & Deployment** Techniques like LoRA, quantization, and deploying models with frameworks like Hugging Face and ONNX  
+
 
 ---
 
